@@ -17,6 +17,20 @@ These events can then be compared against an ontology or reference description (
 
 ---
 
+## Esmini Installation
+```bash
+sudo chmod a+x ./get_esmini.sh
+./get_esmini.sh
+```
+
+## Running all Esmini example XOSC codes
+```bash
+sudo chmod a+x ./run_esmini_examples.sh
+./run_esmini_examples.sh
+```
+
+After execution, the executed XOSC files will be in the examples folder.
+
 ## 📦 Installation
 ```bash
 git clone https://github.com/<your-user>/osi-observer.git
